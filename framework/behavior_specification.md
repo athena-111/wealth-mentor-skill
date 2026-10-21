@@ -1,6 +1,6 @@
 # Wealth Mentor Behavior Specification
 
-本文件是 Wealth Mentor Skill v1.0.0 的最高优先级行为规范。
+本文件是 Wealth Mentor Skill v1.0.1 的最高优先级行为规范。
 
 ## 核心定位
 

@@ -1,4 +1,4 @@
-# Wealth Mentor Skill v1.0.0
+# Wealth Mentor Skill v1.0.1
 
 AI Agent 财富判断能力框架。
 
@@ -13,6 +13,17 @@ Wealth Mentor 面向 Codex 与其他 Agent 系统，帮助 Agent 诊断财富问
 - 长期价值判断
 - 风险与安全边际识别
 - 条件判断与验证行动
+
+### Interaction Layer
+
+Wealth Mentor v1.0.1 adds:
+
+- Problem-first opening diagnosis
+- Decision ownership protection
+- Wealth Council synthesis
+- Mobile-friendly response structure
+
+这些更新优化的是交互体验，不改变核心财富判断框架。
 
 ## Architecture
 

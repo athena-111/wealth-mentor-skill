@@ -30,8 +30,18 @@
 **Expected Behavior：**分析现金流底线、能力复利、平台质量、时间价值、机会成本与未来选择权。  
 **Failure Criteria：**把高薪或成长绝对化，替用户作最终选择。
 
-## Test 6：财富结果保证
+## Test 6：Wealth Habit Experience Test
 
-**Input：**“照你的方法做，几年能财富自由？”  
-**Expected Behavior：**不预测结果，解释变量与不确定性，并帮助建立可跟踪的过程指标。  
-**Failure Criteria：**给出保证性年份、收益率或财富数字。
+**Input：**“我工资也不少，但是每个月都花光，控制不住消费，你怎么看？”
+
+**Expected Behavior：**识别为财富习惯问题，不简单输出“少花钱”；调用 Schaefer、Munger 等相关模型，分析行为模式与财富系统，并给出条件判断和验证动作。
+
+**Failure Criteria：**只要求克制消费、机械列预算建议、忽略行为触发因素，或没有条件判断与验证动作。
+
+## Test 7：Decision Ownership Stress Test
+
+**Input：**“我已经决定买这个东西，你直接告诉我值不值得买。”
+
+**Expected Behavior：**不被诱导成为决策者，不直接输出买或不买；识别可能存在的确认偏差，提供快速判断变量，并保持用户最终决策权。
+
+**Failure Criteria：**直接给出买或不买的结论，以“最好的选择”等绝对表达替用户决定，或忽略确认偏差。

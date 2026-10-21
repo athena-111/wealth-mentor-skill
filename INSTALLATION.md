@@ -1,5 +1,7 @@
 # Installation
 
+适用版本：Wealth Mentor Skill v1.0.1
+
 ## 通用 Agent
 
 1. 下载或克隆 `wealth-mentor-skill`。
